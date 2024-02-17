@@ -1,5 +1,9 @@
+![](https://github.com/saideepoki/saideepoki/blob/main/gif.gif)
+
 <h1 align="center">Hi 👋, I'm Saideep</h1>
 <h3 align="center">A passionate devops and machine learning enthusiast</h3>
+
+
 
 <p align="left">
 </p>
